@@ -22,21 +22,23 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)  
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)  
+### 🛠 Tech Stack
 
-**Data Science / AI:**  
-![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)  
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)  
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)  
-![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-333333?style=flat&logo=scikit-learn)  
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)  
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)  
-![VS Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visualstudiocode)
+**Data Science / AI**  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=plotly&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 

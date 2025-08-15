@@ -14,7 +14,7 @@
 ## 💡 About Me  
 - 🎓 **Third-year BE Student** passionate about **Data Science, AI/ML, and DSA**  
 - 💻 Solved **80+ problems** on [LeetCode](https://leetcode.com/u/Om_J_Bhisra/) with a growing accuracy rate  
-- 📈 Currently exploring **Machine Learning**, **Data Structures & Algorithms**, and **Full-Stack Development**  
+- 📈 Currently exploring **Machine Learning** & **Data Structures & Algorithms**
 - 🎯 Goal: Build impactful AI-driven applications
 - 📍 From Gujarat, India  
 

@@ -4,7 +4,7 @@
 <!-- Banner / Header Image -->
 <!-- Optional: You can create one using Canva or similar tools and host it on GitHub or an image CDN -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/om-bhinsara/omjbhisra/main/github-header-banner.png" alt="Welcome Banner" />
+  <img src="https://github.com/om-bhinsara/om-bhinsara/blob/main/github-header-banner.png" />
 </p>
 
 <!-- Title -->

@@ -9,7 +9,7 @@
 
 <!-- Title -->
 <h1 align="center">Hi 👋, I'm Om J. Bhisra</h1>
-<h3 align="center">🚀 Aspiring Data Scientist | Building things in AI/ML | Problem Solver</h3>
+<h3 align="center">🚀 Building things in AI/ML | Problem Solver</h3>
 
 ## 💡 About Me  
 - 🎓 **Third-year BE Student** passionate about **Data Science, AI/ML, and DSA**  

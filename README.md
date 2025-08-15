@@ -33,7 +33,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=013243)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=013243)
-![Seaborn](https://img.shields.io/badge/Seaborn-2E5EAA?style=for-the-badge&logo=seaborn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E5EAA?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAiIGhlaWdodD0iNzAiPjx0ZXh0IHg9IjAiIHk9IjUwIiBmb250LXNpemU9IjUwIiBmaWxsPSJ3aGl0ZSI+UzwvdGV4dD48L3N2Zz4=)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 **Tools & Platforms**  
